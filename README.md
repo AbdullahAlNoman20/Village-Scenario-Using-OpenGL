@@ -100,8 +100,7 @@ The project is modularly designed where:
 ---
 
 ## 📸 Project Screenshots
-### Main Scene Output
-![Village Scene Screenshot](Project SS.png)
+![Village Scene Screenshot](ProjectSS.png)
 
 ---
 
