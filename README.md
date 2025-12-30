@@ -95,13 +95,13 @@ The project is modularly designed where:
 ## ✏️ Project Sketch
 > Conceptual sketch of the village scene
 
-![Project Sketch](D:\University\Semisters\4th Year\3rd\Computer Graphics\Lab\Project\Scatch.jpg)
+![Project Sketch](Scatch.jpg)
 
 ---
 
 ## 📸 Project Screenshots
 ### Main Scene Output
-![Village Scene Screenshot](D:\University\Semisters\4th Year\3rd\Computer Graphics\Lab\Project\Project SS.png)
+![Village Scene Screenshot](Project SS.png)
 
 ---
 
